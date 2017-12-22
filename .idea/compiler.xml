@@ -9,7 +9,7 @@
         <module name="MCMCodeSet" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="1.8">
       <module name="MCMCodeSet" target="1.8" />
     </bytecodeTargetLevel>
   </component>
